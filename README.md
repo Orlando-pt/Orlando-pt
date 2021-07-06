@@ -44,7 +44,7 @@ Hi, I'm Orlando Macedo, and that is all you need to know.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python   1 min           █████████████████████████   100.00 % 
+Python   2 hrs 18 mins   █████████████████████████   99.51 % 
 ```
 <!--END_SECTION:waka-->
 
