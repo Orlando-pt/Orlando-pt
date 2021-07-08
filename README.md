@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Orlando Macedo, and that is all you need to know.
+Hi, I'm Orlando Macedo, and this readme file is still being developed, so you will need to wait a bit more to see how wonderful and great i am.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
