@@ -48,8 +48,6 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-📈 My GitHub Stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Orlando-pt&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 **Top Languages**
