@@ -53,12 +53,17 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 <br />
 <br />
 <br />
+<br />
+<br />
 
 **Top Languages**
-  
+<div style="text-align: right">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-pt&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21gakyr6iiadj2vmiqikdg6cy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-📈 My GitHub Stats
+📈 **My GitHub Stats**
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Orlando-pt&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
