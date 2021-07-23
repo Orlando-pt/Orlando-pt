@@ -65,11 +65,8 @@ My favourite languages to program is python and java. Java does not appear in th
   
 </div>
 
-:chart_with_upwards_trend: **Github Stats**
+📈 **Github Stats and some extra Sauce** 🔥
   
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Orlando-pt&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Orlando-pt&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-**Extra sauce**
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21gakyr6iiadj2vmiqikdg6cy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
