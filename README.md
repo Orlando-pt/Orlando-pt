@@ -24,13 +24,10 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Orlando Macedo, and this readme file is still being developed, so you will need to wait a bit more to see how wonderful and great i am.
+Hi, I am Orlando Macedo. Software developer and DevOps enthusiast. If you want to know more about me visit https://orlandomacedo.fun.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 Any freelance work? Do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
 
