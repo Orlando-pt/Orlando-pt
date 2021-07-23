@@ -48,20 +48,14 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<div style="margin-top: 1rem">
 
 **Top Languages**
 <div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-pt&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-My favourite languages to program is python and java. Java does not appear in the chart due to a error. But you can check my repositories and see that I am very familiar with java programming.
+My favourite languages to program is python and java. Java does not appear in the chart due to a error. But you can check my repositories and see that I am very familiar with the programming language.
   
 </div>
 
