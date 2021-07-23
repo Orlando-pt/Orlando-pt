@@ -48,8 +48,8 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Orlando-pt&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
 **Top Languages**
   
-<p align="left"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-pt&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-pt&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Orlando-pt&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
