@@ -57,7 +57,7 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 <br />
 
 **Top Languages and Github Stats**
-<div align="left">
+<p align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-pt&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -68,6 +68,6 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
   
 </div>
   
-</div>
+</p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21gakyr6iiadj2vmiqikdg6cy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
