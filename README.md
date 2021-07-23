@@ -57,15 +57,16 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 <br />
 
 **Top Languages and Github Stats**
-<div align="left" width="50%">
+<div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-pt&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
   
 <div align="right" width="50%">
   
 <img src="https://github-readme-stats.vercel.app/api?username=Orlando-pt&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  
+</div>
   
 </div>
 
