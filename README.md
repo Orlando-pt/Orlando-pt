@@ -56,18 +56,22 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 <br />
 <br />
 
-**Top Languages and Github Stats**
-<p align="left">
+**Top Languages and **
+<div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-pt&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
   
+My favourite languages to program is python and java. Java does not appear in the chart due to a error. But you can check my repositories and see that I am very familiar with java programming.
+  
+</div>
+
+:chart_with_upwards_trend: ** Github Stats **
+
 <div align="right" width="50%">
   
 <img src="https://github-readme-stats.vercel.app/api?username=Orlando-pt&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   
 </div>
-  
-</p>
 
+** Extra sauce **
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21gakyr6iiadj2vmiqikdg6cy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
