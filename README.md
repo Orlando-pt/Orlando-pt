@@ -49,7 +49,8 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <div style="margin-top: 1rem">
-
+</div>
+  
 💜 **Top Languages**
 <div>
 
