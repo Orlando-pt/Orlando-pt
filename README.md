@@ -62,7 +62,7 @@ HTML   8 mins          ███████████████████
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-pt&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-My favourite languages to program is python and java. Java does not appear in the chart due to a error. But you can check my repositories and see that I am very familiar with the programming language.
+My favourite languages to program are python and java. Java does not appear in the chart because he is very shy. But you can check my repositories and see that I am familiar with the programming language.
   
 </div>
 
