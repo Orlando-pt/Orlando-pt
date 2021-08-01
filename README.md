@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 Hi, I am Orlando Macedo. Software developer and DevOps enthusiast. If you want to know more about me visit https://orlandomacedo.info.
 
+---
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -64,6 +65,8 @@ HTML   8 mins          ███████████████████
 My favourite languages to program is python and java. Java does not appear in the chart due to a error. But you can check my repositories and see that I am very familiar with the programming language.
   
 </div>
+
+---
 
 📈 **Github Stats and some extra Sauce** 🔥
   
