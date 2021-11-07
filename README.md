@@ -43,7 +43,8 @@ Hi, I am Orlando Macedo. Software developer and DevOps enthusiast. If you want t
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java   1 hr 36 mins    ████████████████████▓░░░░   83.03 % 
+XML    19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.97 % 
 ```
 <!--END_SECTION:waka-->
 
