@@ -42,9 +42,11 @@ Hi, I am Orlando Macedo. Software developer and DevOps enthusiast. If you want t
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <br />
