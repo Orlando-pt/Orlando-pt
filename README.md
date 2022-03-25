@@ -44,11 +44,11 @@ Hi, I am Orlando Macedo. Software developer and DevOps enthusiast. If you want t
 <!--START_SECTION:waka-->
 
 ```text
-Python     55 mins         █████████████████████▓░░░   87.32 %
-Docker     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Markdown   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Python     5 hrs 5 mins    ████████████████████████░   95.45 %
+Markdown   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Docker     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
