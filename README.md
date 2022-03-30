@@ -44,8 +44,8 @@ Hi, I am Orlando Macedo. Software developer and DevOps enthusiast. If you want t
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 21 mins   █████████████████████░░░░   84.59 %
-Markdown     51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Python       5 hrs 21 mins   █████████████████████▒░░░   84.85 %
+Markdown     49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
 Docker       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
