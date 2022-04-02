@@ -22,4 +22,8 @@
 
 <h3 align="left">Current Mood:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21gakyr6iiadj2vmiqikdg6cy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<p align="left">
+  <a href="https://open.spotify.com/user/21gakyr6iiadj2vmiqikdg6cy?si=9e20e3d90c2f4393" target="_blank">
+    <img height="350px" src="https://spotify-github-profile.vercel.app/api/view?uid=21gakyr6iiadj2vmiqikdg6cy&cover_image=true&theme=default" /> 
+  </a>  
+</p> 
