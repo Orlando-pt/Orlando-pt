@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Orlando's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/21gakyr6iiadj2vmiqikdg6cy?si=9e20e3d90c2f4393">
-  <img align="left" alt="Orlando's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Orlando's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/800px-Spotify_App_Logo.svg.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Orlandopt.Orlandopt)
