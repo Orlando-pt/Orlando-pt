@@ -14,7 +14,7 @@
 
 <p><img width=40% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orlando-pt&hide=html,css, tsql&langs_count=8&show_icons=true&locale=en&layout=compact" alt="orlando-pt" /></p>
 
-<p>&nbsp;<img width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=orlando-pt&show_icons=true&hide=html,css&locale=en" alt="orlando-pt" /></p>
+<p>&nbsp;<img width=49% heigth=40% align="center" src="https://github-readme-stats.vercel.app/api?username=orlando-pt&show_icons=true&hide=html,css&locale=en" alt="orlando-pt" /></p>
 
 <h3 align="left">This Week I Spent My Time On:</h3>
 
