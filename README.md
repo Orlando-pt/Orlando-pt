@@ -18,7 +18,7 @@
 
 <h3 align="left">This Week I Spent My Time On:</h3>
 
-[![orlando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Orlando_pt)](https://github.com/anuraghazra/github-readme-stats)
+[![orlando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=orlandopt&langs_count=6)](https://wakatime.com/@orlandopt)
 
 <h3 align="left">Current Mood:</h3>
 
