@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orlando</h1>
-<h3 align="center">A passionate software developer and DevOps enthusiast. See more about me at <a href="https://orlandomacedo.info">link</a>.</h3>
+<h3 align="center">A passionate software developer and DevOps enthusiast. See more about me at <a href="https://orlandomacedo.com">link</a>.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
