@@ -18,7 +18,7 @@
 
 <div align="middle">
 
-<h3>My Favourite Languages:</h3>
+<h3>Favourite Languages:</h3>
           
 <img width=30% src="https://github-readme-stats.vercel.app/api/top-langs?username=orlando-pt&hide=html,css,tsql,scss,php,javascript&langs_count=8&show_icons=true&locale=en&layout=compact" alt="orlando-pt" />
 
@@ -26,7 +26,7 @@
 
 <div align="left">
 
-<h3>My Not So Incredible Stats:</h3>
+<h3>Not So Incredible Stats:</h3>
           
 <img width=45% src="https://github-readme-stats.vercel.app/api?username=orlando-pt&show_icons=true&hide=html,css&locale=en" alt="orlando-pt" />
 
